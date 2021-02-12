@@ -1,0 +1,14 @@
+{
+  "name": "mqtt_protocol_node",
+  "version": "1.0.0",
+  "description": "To implement the mqtt communication with node",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lokesh cj",
+  "license": "ISC",
+  "dependencies": {
+    "mqtt": "^4.2.6"
+  }
+}
