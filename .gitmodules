@@ -1,4 +1,0 @@
-[submodule "node-js"]
-	path = node-js
-	url = https://github.com/cjlokesh/node-js.git
-	branch = master
